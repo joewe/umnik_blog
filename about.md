@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hey, I'm Joe Weber! I enjoy photography and tech.
+Hey, I'm Joe! I enjoy photography and tech.
