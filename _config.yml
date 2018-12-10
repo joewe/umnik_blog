@@ -1,0 +1,14 @@
+# Site settings
+title: Joe Weber
+email: hello@joewe.org
+description: > # this means to ignore newlines until "baseurl:"
+  Hey, I'm Joerg Weber! I enjoy photography and tech.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://umnik.li" # the base hostname & protocol for your site
+twitter_username: joewe_
+
+permalink: /:month-:day-:year/:title.html
+
+# Build settings
+markdown: kramdown
+destination: __site
